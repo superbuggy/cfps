@@ -12,7 +12,7 @@
 
   > 300 chars
   
-Have you ever seen the awesome animations or visuals online and wondered how they were created? This workshop will dive into the code and math behind these pieces of artwork using p5.js. We will build multiple demos during this workshop so you will leave ready to build your own web-ready works!
+Have you ever seen awesome animations or stunning visuals online and wondered how they were created? This workshop dives into the code and math behind these pieces of artwork using p5js. We’ll build multiple demos during this workshop so you’ll leave ready to build your own web-ready artworks!
 
 ## Notes
 
